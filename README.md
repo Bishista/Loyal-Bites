@@ -1,4 +1,4 @@
-# flutter_application_1
+# loyalty_app
 
 A new Flutter project.
 
